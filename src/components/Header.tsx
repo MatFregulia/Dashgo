@@ -65,7 +65,7 @@ export function Header() {
                 </HStack>
 
                 <Flex align="center">
-                    <Box>
+                    <Box mr="4" textAlign="right">
                         <Text>Matheus Fregulia</Text>
                         <Text color="gray.300" fontSize="small">
                             mat.fregulia@gmail.com
